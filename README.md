@@ -1,2 +1,2 @@
-**Welcome** _strong_
+**Welcome** 
 I'm currently learning to use Vagrant
